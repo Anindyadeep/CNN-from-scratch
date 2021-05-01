@@ -12,6 +12,7 @@ As the neural net is not much genaralised, and is capable for only 2D images and
 3. Make the convoliution more generalised such that, it will act as a layer 
 4. Make the back propagation more generalised.
 5. Convolution kernels must be generalised (now its only having 3x3 and pooling has 2x2 kernels) 
+6. Make a jupyter notebook showing the outputs for some images using this model
 
 ### FURURE TASKS
 1. Optimise the code and add as much vectorization we can
